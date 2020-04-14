@@ -1,0 +1,12 @@
+name: First-Try
+title: First-Try
+username:
+account: lofibika
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2116068
+bundleId: 3012691
+url: https://lofibika.shinyapps.io/First-Try/
+when: 1586884178.90035
+asMultiple: FALSE
+asStatic: FALSE

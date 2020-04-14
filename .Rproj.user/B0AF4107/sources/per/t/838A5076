@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586868980744.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3643566256",
+    "id" : "838A5076",
+    "lastKnownWriteTime" : 1586871737,
+    "last_content_update" : 1586871737184,
+    "path" : "C:/Users/ozkra/OneDrive/CEU/Spring term/Shiny/tickersnstuff.R",
+    "project_path" : "tickersnstuff.R",
+    "properties" : {
+        "cursorPosition" : "24,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

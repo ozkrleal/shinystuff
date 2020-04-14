@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586866408364.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "947182543",
+    "id" : "285A925E",
+    "lastKnownWriteTime" : 1586868978,
+    "last_content_update" : 1586868978348,
+    "path" : "C:/Users/ozkra/OneDrive/CEU/Spring term/Shiny/bmi.R",
+    "project_path" : "bmi.R",
+    "properties" : {
+        "cursorPosition" : "49,30",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

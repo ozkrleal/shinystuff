@@ -1,0 +1,11 @@
+shinyapps.io
+
+shiny layouts
+
+shiny dashboards -> check the get started one
+
+shinypass ?
+
+steemdetective.com
+
+https://rstudio.github.io/DT/extensions.html

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586881005710.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2095814501",
+    "id" : "C82271B5",
+    "lastKnownWriteTime" : 1586882121,
+    "last_content_update" : 1586882121276,
+    "path" : "C:/Users/ozkra/OneDrive/CEU/Spring term/Shiny/lastscriptfirstclass.R",
+    "project_path" : "lastscriptfirstclass.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
